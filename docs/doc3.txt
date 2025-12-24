@@ -1,0 +1,1 @@
+VideoSDK provides APIs for real-time video, audio, and interactive AI applications. Its Agents SDK enables building custom voice AI agents with modular STT, LLM, and TTS pipelines.

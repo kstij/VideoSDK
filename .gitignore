@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+hf_cache/
+*.onnx
+*.pt
+*.bin
+.DS_Store
+.cache/.env

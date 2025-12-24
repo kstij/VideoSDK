@@ -1,0 +1,1 @@
+FAISS (Facebook AI Similarity Search) is an open-source library that allows efficient similarity search and clustering of dense vectors. It is commonly used for implementing vector-based retrieval systems in RAG pipelines.
