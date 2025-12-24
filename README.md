@@ -76,8 +76,6 @@ python main.py console
 - Q: Who is the US president?
   - Agent uses LLM fallback: Responds from the base LLM (if not covered by docs).
 
-![Console Q&A](insert-terminal-screenshot-here.png)
-
 ---
 
 ## How it Works
@@ -104,8 +102,6 @@ python main.py console
 - Developer-focused for demo, hack, and extension
 
 ---
-
-![Powered-by](insert-logos-videosdk-faiss-openai-deepgram-elevenlabs.png)
 
 ---
 
